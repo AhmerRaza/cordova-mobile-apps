@@ -8,6 +8,11 @@ There is an open-sourced **chrome extension** as well:
 
 * https://github.com/muaz-khan/Chrome-Extensions/tree/master/file-sharing
 
+Articles:
+
+* [Write iOS apps using RTCMultiConnection](https://www.rtcmulticonnection.org/docs/Write-iOS-Apps/)
+* [Write Android apps using RTCMultiConnection](https://www.rtcmulticonnection.org/docs/Write-Android-Apps/)
+
 # First of All:
 
 ```sh
@@ -22,7 +27,7 @@ npm install --save-dev
 
 # Second Step, Install Platforms
 
-``sh
+```sh
 # android
 cordova platform add android@6.3.0
 
