@@ -11,8 +11,6 @@
     "lint": "ionic-app-scripts lint"
   },
   "dependencies": {
-    "rtcmulticonnection": "latest",
-    "socket.io": "latest",
     "@angular/animations": "5.2.11",
     "@angular/common": "5.2.11",
     "@angular/compiler": "5.2.11",
@@ -37,7 +35,9 @@
     "cordova-plugin-whitelist": "^1.3.3",
     "ionic-angular": "3.9.2",
     "ionicons": "3.0.0",
+    "rtcmulticonnection": "latest",
     "rxjs": "5.5.11",
+    "socket.io": "latest",
     "sw-toolbox": "3.6.0",
     "zone.js": "0.8.26"
   },
