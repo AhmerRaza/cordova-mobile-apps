@@ -26,6 +26,9 @@ lib-cov
 config.gypi
 CVS
 npm-debug.log
+video-conference/node_modules
+video-conference/platforms
+video-conference/plugins
 video-conference-ionic/node_modules
 video-conference-ionic/platforms
 video-conference-ionic/plugins
